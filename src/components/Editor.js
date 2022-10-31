@@ -10,7 +10,7 @@ const defaultSettings = {
 	bgColor: "#dcd6f7",
 	pattern: "",
 	download: "PNG",
-	author: 'Rutik Wankhade & David Weng',
+	author: 'Kyire6',
 	icon: { 'label': 'react', 'value': 'react' },
 	devIconOptions: {},
 	font: 'font-sans',
